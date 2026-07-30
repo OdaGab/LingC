@@ -9,6 +9,7 @@ Este projeto tem como finalidade guardar estudos e prática de linguagem C, incl
 ## Estrutura
 
 - exemplo01.c: exemplo inicial em C com a função main.
+- exemplo02.c: exemplo com uma segunda implementação em C.
 
 ## Como executar
 
