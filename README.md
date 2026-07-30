@@ -23,6 +23,6 @@ gcc exemplo01.c -o exemplo01
 ./exemplo01
 ```
 
-## Autor
+## Sujestões 
 
-OdaGab
+odavita32@gmail.com
