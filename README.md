@@ -10,6 +10,7 @@ Este projeto tem como finalidade guardar estudos e prática de linguagem C, incl
 
 - exemplo01.c: exemplo inicial em C com a função main.
 - exemplo02.c: exemplo com uma segunda implementação em C.
+- exemplo03.c: exemplo que demonstra o uso de ponteiros em C.
 
 ## Como executar
 
