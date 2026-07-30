@@ -15,6 +15,7 @@ Este projeto tem como finalidade guardar estudos e prática de linguagem C, incl
 - exemplo05.c: exemplo baseado no que aprendemos nos exemplos01,02,03,04.
 
 ## Como executar
+Os exemplos estão sendo realizados na plataforma Linux no VsCode com a extenção C/C++ IntelliSense, debugging, and code browsing.
 
 Compile o arquivo com:
 
