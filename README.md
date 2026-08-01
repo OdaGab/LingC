@@ -1,29 +1,58 @@
-# Estrutura de Dados - C
+# Estrutura de Dados em C
 
-Repositório para armazenar exercícios, exemplos e códigos em C.
+Repositório de estudos e exemplos em linguagem C.
 
 ## Objetivo
 
-Este projeto tem como finalidade guardar estudos e prática de linguagem C, incluindo exemplos básicos e exercícios de algoritmos e estruturas de dados.
+Organizar exercícios, implementações e exemplos de código em C para estudo e prática de algoritmos, estruturas de dados e conceitos básicos de programação.
 
-## Estrutura
+## Estrutura do repositório
 
-- exemplo01.c: exemplo inicial em C com a função main.
-- exemplo02.c: exemplo com uma segunda implementação em C.
-- exemplo03.c: exemplo que demonstra o uso de ponteiros em C.
-- exemplo04.c: exemplo que demonstra o uso de alocação dinâmica com malloc.
-- exemplo05.c: exemplo baseado no que aprendemos nos exemplos01,02,03,04.
+- `Estr Dados/`
+  - `exemplo01.c`
+  - `exemplo02.c`
+  - `exemplo03.c`
+  - `exemplo04.c`
+  - `exemplo05.c`
+  - `exemplo05` (executável)
+- `Intro em C/`
+  - `hello.c`
+  - `arq02.c`
+  - `arq03.c`
+  - `arq04.c`
+  - `hello`, `arq02`, `arq03`, `arq04` (executáveis gerados)
 
-## Como executar
-Os exemplos estão sendo realizados na plataforma Linux no VsCode com a extenção C/C++ IntelliSense, debugging, and code browsing.
+## Conteúdo
 
-Compile o arquivo com:
+- `Estr Dados/` contém exemplos focados em estruturas de dados e conceitos básicos em C.
+- `Intro em C/` contém exercícios introdutórios, exemplos de compilação e arquivos para praticar o compilador no Linux.
+
+## Como compilar
+
+No Linux com GCC, use os comandos a seguir dentro da pasta desejada.
+
+### Exemplo no diretório `Estr Dados`
 
 ```bash
+cd "Estr Dados"
 gcc exemplo01.c -o exemplo01
 ./exemplo01
 ```
 
-## Sujestões 
+### Exemplo no diretório `Intro em C`
 
-odavita32@gmail.com
+```bash
+cd "Intro em C"
+gcc arq02.c -o arq02
+./arq02
+```
+
+## Observações
+
+- Mantenha os arquivos em pastas separadas para organizar melhor os exemplos.
+- Arquivos com extensão `.c` são o código-fonte, e os outros são executáveis gerados após compilação.
+
+## Contato
+
+- E-mail: odavita32@gmail.com
+
