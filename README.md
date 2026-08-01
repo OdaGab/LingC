@@ -6,7 +6,7 @@ Repositório de estudos e exemplos em linguagem C.
 
 Organizar exercícios, implementações e exemplos de código em C para estudo e prática de algoritmos, estruturas de dados e conceitos básicos de programação.
 
-## Estrutura do repositório
+## Estrutura do repositório.
 
 - `Estr Dados/`
   - `exemplo01.c`
