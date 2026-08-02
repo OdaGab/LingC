@@ -1,6 +1,6 @@
-# Estrutura de Dados em C
+# Linguagem C.
 
-Linguagem C.
+Estudos e exemplos, exercícios resolvidos de diversos livros na linguagem C.
 
 ## Objetivo
 
@@ -20,7 +20,6 @@ Organizar exercícios, implementações e exemplos de código em C para estudo e
   - `arq02.c`
   - `arq03.c`
   - `arq04.c`
-  - `exercicios01.c` a `exercicios16.c`
   - Executáveis gerados: `hello`, `arq02`, `arq03`, `arq04`
 
 ## Conteúdo
