@@ -1,6 +1,6 @@
 # Estrutura de Dados em C
 
-Repositório de estudos e exemplos em linguagem C.
+Linguagem C.
 
 ## Objetivo
 
