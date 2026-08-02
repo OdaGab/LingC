@@ -6,7 +6,7 @@ Repositório de estudos e exemplos em linguagem C.
 
 Organizar exercícios, implementações e exemplos de código em C para estudo e prática de algoritmos, estruturas de dados e conceitos básicos de programação.
 
-## Estrutura do repositório.
+## Estrutura do repositório
 
 - `Estr Dados/`
   - `exemplo01.c`
@@ -20,12 +20,13 @@ Organizar exercícios, implementações e exemplos de código em C para estudo e
   - `arq02.c`
   - `arq03.c`
   - `arq04.c`
-  - `hello`, `arq02`, `arq03`, `arq04` (executáveis gerados)
+  - `exercicios01.c` a `exercicios16.c`
+  - Executáveis gerados: `hello`, `arq02`, `arq03`, `arq04`
 
 ## Conteúdo
 
 - `Estr Dados/` contém exemplos focados em estruturas de dados e conceitos básicos em C.
-- `Intro em C/` contém exercícios introdutórios, exemplos de compilação e arquivos para praticar o compilador no Linux.
+- `Intro em C/` contém exercícios introdutórios, exemplos de compilação e códigos de prática em C.
 
 ## Como compilar
 
@@ -47,10 +48,19 @@ gcc arq02.c -o arq02
 ./arq02
 ```
 
+### Exemplo para um exercício adicional
+
+```bash
+cd "Intro em C"
+gcc exercicios01.c -o exercicios01
+./exercicios01
+```
+
 ## Observações
 
 - Mantenha os arquivos em pastas separadas para organizar melhor os exemplos.
-- Arquivos com extensão `.c` são o código-fonte, e os outros são executáveis gerados após compilação.
+- Arquivos com extensão `.c` são o código-fonte; os outros arquivos podem ser executáveis gerados após compilação.
+- Os nomes `exercicios01.c` a `exercicios16.c` seguem a sequência de exercícios do capítulo 2.
 
 ## Contato
 
