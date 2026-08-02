@@ -4,6 +4,7 @@
 
    Escreva um programa em C que receba 3 números inteiros diferentes digitados no teclado e imprima a soma, a média, o produto, o menor.
 */
+// imprima a soma, a média, o produto, o menor.
 #include <stdio.h>
 
 int main() {
