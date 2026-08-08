@@ -10,16 +10,16 @@
 
 #include <stdio.h>
 
-void main(){
+int main(){
   
     // Sem especificadores de conversão.
-    printf("1, 2, 3, 4 \n");
+    printf("1 2 3 4 \n");
 
     // Com identificadores de conversão.
-    printf("%i, %i, %i, %i", 1,2,3,4);
+    printf("%i %i %i %i", 1,2,3,4);
 
-    printf("\n1, ");
-    printf("2, ");
-    printf("3, ");
+    printf("\n1 ");
+    printf("2 ");
+    printf("3 ");
     printf("4");
 }
