@@ -1,12 +1,12 @@
 #include<stdio.h>
-#include<math.h>
+
 int main(){
+    const double PI = 3.14159;
     //raio da piscina
     double raio = 2;
     // área da Piscina
     double areap; 
-    //areap = M_PI * raio * raio;
-    areap = M_PI * pow(raio,2);
+    areap = PI * raio * raio;
     printf("Área: %f\n", areap);
 
 
