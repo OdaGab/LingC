@@ -14,3 +14,5 @@ typedef struct PESSOA
     struct PESSOA *mae;
     struct PESSOA *pai;
 } PESSOA;
+
+// Resposta do Exercicío 2 esta no arquivo ExercicioDPSem02-b
