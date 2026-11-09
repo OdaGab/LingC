@@ -26,3 +26,5 @@ PESSOA* inicializar(int id)
 
     return nova_pessoa;
 }
+
+// Resposta do Exercicío 2 esta no arquivo ExercicioDPSem02-c
