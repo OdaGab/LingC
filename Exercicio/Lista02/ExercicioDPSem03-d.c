@@ -1,4 +1,8 @@
 /*
+
+exemplo completo da lista de exercicío 
+
+
 1 Exercicio 1
 Escreva os comandos que definem uma estrutura (struct) chamada PESSOA que
 possui tres campos: id do tipo inteiro; mae do tipo referencia para PESSOA; e
